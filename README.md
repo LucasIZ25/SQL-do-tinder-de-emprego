@@ -273,18 +273,7 @@ Quando houver interesse mútuo entre empresa e candidato, será gerado um <stron
 
 <hr>
 
-<h2>🛠️ Tecnologias Utilizadas</h2>
-
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ul>
-
-<hr>
-
+<
 <h2 align="center">📚 Projeto Acadêmico</h2>
 
 <p align="center">
